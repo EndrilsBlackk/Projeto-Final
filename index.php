@@ -1,11 +1,14 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto Final</title>
-</head>
-<body>
-    
+<?php
+include_once "app/site/paginas/includes/header.php";
+?>
+
+<!--paginas-->
+<br><br><br><br>
+<h1 style="text-align: center" class="icon-android1"> Android!</h1>
+
+<!--fim paginas-->
+
+
+
 </body>
 </html>
