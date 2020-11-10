@@ -1,14 +1,15 @@
 <?php
+//header
 include_once "app/site/paginas/includes/header.php";
+
+//navegador
+include_once "app/site/paginas/includes/navegador.php";
+
+
+
+
+
+
+//footer
+include_once "app/site/paginas/includes/footer.php";
 ?>
-
-<!--paginas-->
-<br><br><br><br>
-<h1 style="text-align: center" class="icon-android1"> Android!</h1>
-
-<!--fim paginas-->
-
-
-
-</body>
-</html>
