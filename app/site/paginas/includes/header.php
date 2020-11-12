@@ -23,8 +23,8 @@
 
 <!--header-->
 
-<header class="container">
-<img src="app/assets/img/fundo.png" alt="">
+<header class="container-fluid p=0">
+<img src="app/assets/img/fundo.png" class="img-fluid w-100 p-0" alt="">
 </header>
 
 <!--fim header-->

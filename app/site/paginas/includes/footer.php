@@ -8,8 +8,11 @@
 
 </footer>
 
-<div class="container">
-<p class="text-center">Todos os direitos resevardos &copy; 2020</p>
+<div class="container text-center">
+<p style="color: white" class="text-center">Todos os direitos resevardos &copy; 2020</p>
 </div>
+
+
+
 
 <!--fim footer-->
