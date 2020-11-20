@@ -9,13 +9,18 @@
   </div>
 
   <div class="form-group">
-    <label  style="color: white" for="email">Email</label>
-    <input type="email" name="email" class="form-control" id="exampleFormControlInput1" placeholder="Digite seu email.">
+    <label  style="color: white" for="email">Assunto</label>
+    <input type="text" name="email" class="form-control" id="exampleFormControlInput1" placeholder="Nos informe o seu assunto.">
   </div>
   
-  
+  <div class="form-group">
+    <label  style="color: white" for="exampleFormControlTextarea1">Mensagem</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Digite sua mensagem." rows="3"></textarea>
+  </div>
  
-  <button type="submit" class="btn btn-warning btn-lg btn-block"><spam class="icon-arrow-right2"> Enviar </spam></button>
+  <button type="submit" class="btn btn-primary btn-lg btn-block"><spam class="icon-arrow-right2"> Enviar </spam></button>
+  <button type="submit" class="btn btn-warning btn-lg btn-block"><spam class="icon-arrow-right2"> Cancelar </spam></button>
+  
 </form>
 </div>
 </div>

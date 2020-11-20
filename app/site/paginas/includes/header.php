@@ -23,7 +23,7 @@
 
 <!--header-->
 
-<header class="container-fluid p=0">
+<header class="container/fluid">
 <img src="app/assets/img/fundo.png" class="img-fluid w-100 p-0" alt="">
 </header>
 
